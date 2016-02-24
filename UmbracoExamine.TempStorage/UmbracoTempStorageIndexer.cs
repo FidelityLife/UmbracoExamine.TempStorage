@@ -4,9 +4,9 @@ using System.Web;
 using Lucene.Net.Analysis;
 using Lucene.Net.Index;
 using Lucene.Net.Store;
-using Umbraco.Core;
-using Umbraco.Core.IO;
 using Directory = System.IO.Directory;
+using Umbraco.Core.IO;
+using Umbraco.Core;
 
 namespace UmbracoExamine.TempStorage
 {

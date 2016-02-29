@@ -1,0 +1,28 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Thursday, 25 February 2016 11:38:50 a.m.
+   Source : C:\Projects\AdviserCenterRewrite\trunk\Back-End\UmbracoExamine.TempStorage\UmbracoExamine.TempStorage\bin\
+     Dest : C:\Projects\AdviserCenterRewrite\trunk\Back-End\UmbracoExamine.TempStorage\UmbracoExamine.TempStorage\App_Data\NuGetBackup\20160225-113850\bin\
+
+    Files : *.*
+	    
+  Options : *.* /S /E /DCOPY:DA /COPY:DAT /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   0	C:\Projects\AdviserCenterRewrite\trunk\Back-End\UmbracoExamine.TempStorage\UmbracoExamine.TempStorage\bin\
+	  New Dir          0	C:\Projects\AdviserCenterRewrite\trunk\Back-End\UmbracoExamine.TempStorage\UmbracoExamine.TempStorage\bin\Debug\
+	  New Dir          0	C:\Projects\AdviserCenterRewrite\trunk\Back-End\UmbracoExamine.TempStorage\UmbracoExamine.TempStorage\bin\Release\
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         3         2         0         0         0         0
+   Files :         0         0         0         0         0         0
+   Bytes :         0         0         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : Thursday, 25 February 2016 11:38:51 a.m.
+
